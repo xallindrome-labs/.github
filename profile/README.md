@@ -6,7 +6,7 @@ Small, useful open-source tools from [Xallindrome](https://xallindrome.co), an a
 
 | Tool | What it does |
 |---|---|
-| [**codex-bridge**](https://github.com/xallindrome-labs/codex-bridge) | An MCP server that lets Claude Code ask the Codex CLI for plans, second opinions and images, as durable background jobs. `claude mcp add codex-bridge -- npx -y codex-bridge` |
+| [**codex-bridge**](https://github.com/xallindrome-labs/codex-bridge) | An MCP server that lets Claude Code ask the Codex CLI for plans, second opinions and images, as durable background jobs. `claude mcp add codex-bridge -- npx -y @xallindrome-labs/codex-bridge` |
 
 More tools will land here as they're ready to share.
 
